@@ -1,3 +1,5 @@
+DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,apple.com
 DOMAIN,emy.embb.ccwu.cc
 DOMAIN-SUFFIX,web.chatboxai.app
 DOMAIN,cpa-ksof.onrender.com
